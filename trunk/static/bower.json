@@ -24,17 +24,10 @@
     "angular": "=1.2.27",
     "angular-bindonce": "*",
     "angular-bootstrap": "*",
-<<<<<<< HEAD
-    "angular-cookies": "1.2.27",
-    "angular-elastic": "*",
-    "angular-route": "=1.2.27",
-    "angular-sanitize": "1.2.27",
-=======
     "angular-cookies": "=1.2.27",
     "angular-elastic": "*",
     "angular-route": "=1.2.27",
     "angular-sanitize": "=1.2.27",
->>>>>>> ca1bf9b7db03f84792312be1889aa2bc6270423f
     "angular-ui-sortable": "*",
     "bootstrap-switch": "*",
     "bootstrap": "*",

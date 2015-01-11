@@ -1,7 +1,7 @@
 {
   "name": "cdoj",
-  "version": "2.2.2",
-  "homepage": "https://github.com/mzry1992/CDOJ",
+  "version": "2.2.3",
+  "homepage": "https://github.com/UESTC-ACM/CDOJ",
   "authors": [
     "mzry1992 <muziriyun@gmail.com>"
   ],
@@ -24,10 +24,17 @@
     "angular": "=1.2.27",
     "angular-bindonce": "*",
     "angular-bootstrap": "*",
+<<<<<<< HEAD
     "angular-cookies": "1.2.27",
     "angular-elastic": "*",
     "angular-route": "=1.2.27",
     "angular-sanitize": "1.2.27",
+=======
+    "angular-cookies": "=1.2.27",
+    "angular-elastic": "*",
+    "angular-route": "=1.2.27",
+    "angular-sanitize": "=1.2.27",
+>>>>>>> ca1bf9b7db03f84792312be1889aa2bc6270423f
     "angular-ui-sortable": "*",
     "bootstrap-switch": "*",
     "bootstrap": "*",
